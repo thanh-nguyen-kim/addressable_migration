@@ -18,23 +18,17 @@ MonoBehaviour:
   m_GUID: b0eda9f1ecd8143b5a47b603aa6ff40f
   m_SerializeEntries:
   - m_GUID: 354058fc774614311bdaa222a3570c72
-    m_Address: Assets/Scenes/Level1.unity
+    m_Address: Level1
     m_ReadOnly: 0
     m_SerializedLabels: []
     m_MainAsset: {fileID: 102900000, guid: 354058fc774614311bdaa222a3570c72, type: 3}
     m_TargetAsset: {fileID: 102900000, guid: 354058fc774614311bdaa222a3570c72, type: 3}
   - m_GUID: e5ca6ee42d747430b959570d573c3d38
-    m_Address: Assets/Scenes/Menu.unity
+    m_Address: Menu
     m_ReadOnly: 0
     m_SerializedLabels: []
     m_MainAsset: {fileID: 102900000, guid: e5ca6ee42d747430b959570d573c3d38, type: 3}
     m_TargetAsset: {fileID: 102900000, guid: e5ca6ee42d747430b959570d573c3d38, type: 3}
-  - m_GUID: eb6a4ae58372c48a8850c18b62083ccb
-    m_Address: Assets/Scenes/Splash.unity
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    m_MainAsset: {fileID: 102900000, guid: eb6a4ae58372c48a8850c18b62083ccb, type: 3}
-    m_TargetAsset: {fileID: 102900000, guid: eb6a4ae58372c48a8850c18b62083ccb, type: 3}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 006c63166c36e480399c27b4478000db, type: 2}
   m_SchemaSet:

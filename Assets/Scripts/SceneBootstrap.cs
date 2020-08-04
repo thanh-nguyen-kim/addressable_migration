@@ -5,6 +5,6 @@ using UnityEngine.AddressableAssets;
 public class SceneBootstrap : MonoBehaviour
 {
     private void Start(){
-        Addressables.LoadSceneAsync("Splash");
+        Addressables.LoadSceneAsync("Menu");
     }
 }
